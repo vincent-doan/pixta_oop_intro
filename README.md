@@ -13,3 +13,5 @@ pip install -r requirements.txt'
 ```
 python main_screen.py
 ```
+
+![Class Diagram](class_diagram_annotated.png)
